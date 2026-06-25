@@ -229,3 +229,11 @@
 
 ---
 *Auto-generated · [organize\_leetcode.py](./organize_leetcode.py)*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3110-score-of-a-string) |
+<!---LeetCode Topics End-->
