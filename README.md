@@ -235,12 +235,14 @@
 ## String
 |  |
 | ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Simulation
