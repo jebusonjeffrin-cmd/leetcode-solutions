@@ -235,6 +235,7 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -253,6 +254,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -274,4 +276,8 @@
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1854-maximum-population-year) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
