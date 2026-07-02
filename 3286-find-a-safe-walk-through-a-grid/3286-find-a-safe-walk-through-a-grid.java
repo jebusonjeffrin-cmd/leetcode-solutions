@@ -9,12 +9,13 @@ class Solution {
                 grid[row][col] = g.get(row).get(col);
             }
         }
+
         boolean[][] visited = new boolean[R][C];
         Boolean[][][] dp = new Boolean[R][C][health+1];
+        if(grid[0][0] == 1)health--;
         return dfs(grid,visited,health,0,0,R,C,dp);
     }
     private boolean dfs(int[][] grid,boolean[][] visited,int health,int row,int col,int R,int C,Boolean[][][] dp){
-        if(grid[row][col] == 1)health--;
         if(health <=0){
             return false;
         }
@@ -27,8 +28,15 @@ class Solution {
             int adjR = row+diff[i][0];
             int adjC = col+diff[i][1];
             if(isValid(grid,adjR,adjC,R,C) && !visited[adjR][adjC]){
-                if(dfs(grid,visited,health,adjR,adjC,R,C,dp)){
+                if(grid[adjR][adjC] == 0){
+                    if(dfs(grid,visited,health,adjR,adjC,R,C,dp)){
                     return dp[adjR][adjC][health] = true;
+                }
+                }
+                else if(grid[adjR][adjC] == 1){
+                    if(dfs(grid,visited,health-1,adjR,adjC,R,C,dp)){
+                    return dp[adjR][adjC][health] = true;
+                }
                 }
                 
             }
