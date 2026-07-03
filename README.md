@@ -238,6 +238,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3110-score-of-a-string) |
 ## Array
 |  |
@@ -247,6 +248,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2942-find-words-containing-character](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Simulation
