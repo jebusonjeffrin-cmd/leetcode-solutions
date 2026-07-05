@@ -235,6 +235,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -258,6 +259,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -291,6 +293,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
