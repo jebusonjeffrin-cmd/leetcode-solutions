@@ -331,4 +331,12 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
