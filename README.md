@@ -265,6 +265,7 @@
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -343,6 +344,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
@@ -353,6 +355,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
