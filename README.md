@@ -245,6 +245,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -291,6 +292,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1854-maximum-population-year](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1854-maximum-population-year) |
 ## Sliding Window
 |  |
