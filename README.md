@@ -303,6 +303,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -380,12 +381,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
 | ------- |
@@ -400,4 +403,8 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
