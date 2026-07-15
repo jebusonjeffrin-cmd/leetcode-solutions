@@ -309,6 +309,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -341,6 +342,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -377,11 +379,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
