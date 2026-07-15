@@ -307,6 +307,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -339,6 +340,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Math
 |  |
@@ -373,10 +375,12 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 ## Stack
 |  |
