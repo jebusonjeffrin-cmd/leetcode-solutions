@@ -258,10 +258,12 @@
 | [2942-find-words-containing-character](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -350,6 +353,7 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -370,6 +374,7 @@
 | [0234-palindrome-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -398,6 +403,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
