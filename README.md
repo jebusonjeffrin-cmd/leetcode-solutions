@@ -316,6 +316,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -332,6 +333,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -343,6 +345,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -350,6 +353,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
@@ -357,6 +361,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
