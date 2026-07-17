@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -262,6 +263,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -415,6 +417,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
