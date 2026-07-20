@@ -317,6 +317,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
@@ -364,6 +365,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -409,6 +411,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
@@ -417,6 +420,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Stack
 |  |
