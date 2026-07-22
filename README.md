@@ -247,6 +247,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -289,6 +290,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -392,6 +394,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
