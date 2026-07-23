@@ -236,6 +236,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1108-defanging-an-ip-address](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -277,6 +278,7 @@
 | [0141-linked-list-cycle](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -312,6 +314,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
