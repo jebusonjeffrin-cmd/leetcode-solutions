@@ -252,6 +252,7 @@
 | [0015-3sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0015-3sum) |
 | [0238-product-of-array-except-self](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -297,6 +298,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0015-3sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
