@@ -334,6 +334,7 @@
 | [0127-word-ladder](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -351,6 +352,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
@@ -363,6 +365,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -371,6 +374,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
@@ -381,6 +385,7 @@
 | [0112-path-sum](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -455,6 +460,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Bit Manipulation
 |  |
