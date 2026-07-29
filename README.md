@@ -447,6 +447,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -466,4 +467,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/jebusonjeffrin-cmd/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
